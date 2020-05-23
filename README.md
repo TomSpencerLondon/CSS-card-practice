@@ -8,3 +8,7 @@ This was a grid which I used to mark up the different divs on the image:
 
 This was the final result:
 ![final result](https://user-images.githubusercontent.com/27693622/82727274-67b96780-9ce1-11ea-8435-6bef15f77a3f.png)
+
+Take a look here:
+https://naughty-khorana-9c78ec.netlify.app/
+
